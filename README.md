@@ -6,8 +6,8 @@ A Torchlight 2 mod to enhance the game w/out effecting gameplay.
 
 This is a merging of several mods to bring the game closer to perfection:
 
-- [EquipmentRemix](https://steamcommunity.com/sharedfiles/filedetails/?id=146747116) - Rearranges equipment slots.
-- [SuperStash](https://steamcommunity.com/sharedfiles/filedetails/?id=146747116) - Increases stash size.
+- [EquipmentRemix](https://github.com/whipowill/t2-equipment-remix) - Rearranges equipment slots.
+- [SuperStash](https://github.com/whipowill/t2-super-stash) - Increases stash size.
 - [SmootherTeleport](https://steamcommunity.com/sharedfiles/filedetails/?id=146747116) - Makes Teleport ability quieter.
 - [UltimateRespec](https://steamcommunity.com/sharedfiles/filedetails/?id=841702558) - Respec NPC can do it all.
 - [NoSidetabs](https://steamcommunity.com/sharedfiles/filedetails/?id=275424856) - Cleaner UI.
